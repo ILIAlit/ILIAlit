@@ -2,6 +2,7 @@
 
 <h3 align="center">I'm full-stack developer from minsk</h3>
 <h2 style="margin-top: 50px" align="left">🔥 About Me:</h2>
+
 - 🔭 I’m currently working on [.Creator](https://creator-place.vercel.app/)
 
 - 🌱 I’m currently learning **redux, nest, next, typescript**
