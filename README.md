@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ilialitvinenko2004@gmail.com**
 
-- 📄 Know about my experiences [Ilia Litvinenko CV]([https://www.canva.com/design/DAF8f75la5g/p3QDRYLcqddjqumq4B_1rg/view?utm_content=DAF8f75la5g&utm_campaign=designshare&utm_medium=link&utm_source=editor](https://ilia-litvinenko.vercel.app/Litvinenko_Ilia_full-stack-dev_en_CV.pdf))
+- 📄 Know about my experiences [Ilia Litvinenko CV](https://ilia-litvinenko.vercel.app/Litvinenko_Ilia_full-stack-dev_en_CV.pdf)
 
 <h2 style="margin-top: 70px" align="left">☎ Connect With Me:</h2>
 <p align="left">
